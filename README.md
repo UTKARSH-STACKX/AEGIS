@@ -285,4 +285,4 @@ For full scientific documentation and experimental design of the leave-one-evalu
 ---
 
 ## 👥 Authors & Team
-Built with ❤️ for the AI Hackathon by Ishant & Utkarsh.
+Built with ❤️ by Ishant & Utkarsh.
