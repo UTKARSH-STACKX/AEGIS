@@ -11,7 +11,7 @@
 
 ## Submission Links
 
-- **GitHub Repository:** [https://github.com/IshantXM/AI-Agent-Evaluation-and-Relability-Engine](https://github.com/IshantXM/AI-Agent-Evaluation-and-Relability-Engine)
+- **GitHub Repository:** [https://github.com/UTKARSH-STACKX/AEGIS)
 - **Prototype:** Run locally using the instructions below.
 - **Demo Video:** https://youtu.be/PH-1Jl9Wm5E
 
